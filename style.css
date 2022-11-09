@@ -1,0 +1,29 @@
+*{
+margin: 0;
+padding: 0;
+}
+.parent{
+    background-color: rgb(16, 14, 14);
+    color: #fff;
+}
+.A_letter{
+    position: sticky;
+    top: 0px;
+    background-color: cadetblue;
+}
+.B_letter{
+    position: sticky;
+    top: 0px;
+    background-color: cadetblue;
+}
+.C_letter{
+    position: sticky;
+    top: 0px;
+    background-color: cadetblue;
+}
+.D_letter{
+    position: sticky;
+    top: 0px;
+    background-color: cadetblue;
+}
+
